@@ -1,0 +1,11 @@
+{
+  "magisk": {
+    "version": "23.0",
+    "versionCode": "23000",
+    "link": "https://cdn.discordapp.com/attachments/803137390658846753/1087190198833647696/magisk23.apk",
+  },
+  "stub": {
+    "versionCode": "21",
+    "link": "https://cdn.discordapp.com/attachments/803137390658846753/1087190393201893436/stub-release.apk"
+  }
+}
